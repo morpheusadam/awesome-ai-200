@@ -1,0 +1,2 @@
+# scripts/update.py uses only the Python standard library — no dependencies.
+# This file is kept intentionally empty so CI tooling stays happy.

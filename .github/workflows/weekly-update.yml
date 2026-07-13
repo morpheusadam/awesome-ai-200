@@ -1,0 +1,41 @@
+name: Weekly Update
+
+# Refresh the rankings every Monday at 06:00 UTC, and allow manual runs.
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh stars & regenerate all languages
+        env:
+          # The auto-provided token is enough for the Search API and for pushing.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/update.py
+
+      - name: Commit any changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README*.md data/repos.json
+          if git diff --staged --quiet; then
+            echo "No ranking changes this week."
+          else
+            git commit -m "chore: weekly refresh of stars, trending & translations"
+            git push
+          fi

@@ -1,0 +1,16 @@
+# Secrets — never commit tokens
+.git.txt
+*.token
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

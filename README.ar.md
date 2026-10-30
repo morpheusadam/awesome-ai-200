@@ -5,7 +5,7 @@
 
 ### أسرع 200 مشروع ذكاء اصطناعي ووكلاء مفتوح المصدر صعودًا على GitHub — مرتبة تلقائيًا من بيانات حية، وتُحدَّث أسبوعيًا.
 
-![Repositories](https://img.shields.io/badge/repositories-268-6f42c1) ![Total stars](https://img.shields.io/badge/total%20stars-11489k%2B-ffd33d) ![Languages](https://img.shields.io/badge/languages-6-0aa) [![Weekly update](https://github.com/morpheusadam/awesome-ai-200/actions/workflows/weekly-update.yml/badge.svg)](https://github.com/morpheusadam/awesome-ai-200/actions/workflows/weekly-update.yml) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
+![Repositories](https://img.shields.io/badge/repositories-269-6f42c1) ![Total stars](https://img.shields.io/badge/total%20stars-11493k%2B-ffd33d) ![Languages](https://img.shields.io/badge/languages-6-0aa) [![Weekly update](https://github.com/morpheusadam/awesome-ai-200/actions/workflows/weekly-update.yml/badge.svg)](https://github.com/morpheusadam/awesome-ai-200/actions/workflows/weekly-update.yml) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 
 <sub>اقرأه بلغتك:</sub><br>
 [🇬🇧 English](README.md) · [🇨🇳 简体中文](README.zh-CN.md) · [🇪🇸 Español](README.es.md) · [🇮🇳 हिन्दी](README.hi.md) · **🇸🇦 العربية** · [🇮🇷 فارسی](README.fa.md)
@@ -18,9 +18,9 @@
 
 ## 📊 لمحة سريعة
 
-- **268** مستودع ذكاء اصطناعي ووكلاء، مرتبة حسب نجوم GitHub الحية
-- **11,489,744** إجمالي نجوم GitHub
-- 🔄 أُعيد بناؤه تلقائيًا — آخر تحديث **2026-10-26 12:25 UTC**
+- **269** مستودع ذكاء اصطناعي ووكلاء، مرتبة حسب نجوم GitHub الحية
+- **11,493,738** إجمالي نجوم GitHub
+- 🔄 أُعيد بناؤه تلقائيًا — آخر تحديث **2026-10-30 01:16 UTC**
 
 </div>
 
@@ -319,6 +319,7 @@ _أكبر زيادة في النجوم منذ آخر تحديث أسبوعي._
 | 266 | [FlowElement-xinliuyuansu/m_flow](https://github.com/FlowElement-xinliuyuansu/m_flow) | ⭐ 4,508 | Python | A bio-inspired cognitive memory engine — a new paradigm for Graph RAG. |
 | 267 | [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) | ⭐ 4,453 | JavaScript | Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI |
 | 268 | [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) | ⭐ 4,286 | Jupyter Notebook | A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes. |
+| 269 | [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | ⭐ 3,994 | JavaScript | فريق ذكاء اصطناعي مكتبي مفتوح المصدر ومحلي أولاً. ينسق Commander متخصصين للتقارير والعروض والفيديو والكود مع مزودي نماذج مدعومين. |
 
 ---
 

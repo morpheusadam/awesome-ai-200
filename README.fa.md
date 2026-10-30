@@ -5,7 +5,7 @@
 
 ### ۲۰۰ پروژه‌ی متن‌باز هوش مصنوعی و ایجنت که سریع‌ترین رشد را در گیت‌هاب دارند — رتبه‌بندی خودکار از داده‌ی زنده، به‌روزرسانی هفتگی.
 
-![Repositories](https://img.shields.io/badge/repositories-268-6f42c1) ![Total stars](https://img.shields.io/badge/total%20stars-11489k%2B-ffd33d) ![Languages](https://img.shields.io/badge/languages-6-0aa) [![Weekly update](https://github.com/morpheusadam/awesome-ai-200/actions/workflows/weekly-update.yml/badge.svg)](https://github.com/morpheusadam/awesome-ai-200/actions/workflows/weekly-update.yml) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
+![Repositories](https://img.shields.io/badge/repositories-269-6f42c1) ![Total stars](https://img.shields.io/badge/total%20stars-11493k%2B-ffd33d) ![Languages](https://img.shields.io/badge/languages-6-0aa) [![Weekly update](https://github.com/morpheusadam/awesome-ai-200/actions/workflows/weekly-update.yml/badge.svg)](https://github.com/morpheusadam/awesome-ai-200/actions/workflows/weekly-update.yml) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 
 <sub>به زبان‌های دیگر:</sub><br>
 [🇬🇧 English](README.md) · [🇨🇳 简体中文](README.zh-CN.md) · [🇪🇸 Español](README.es.md) · [🇮🇳 हिन्दी](README.hi.md) · [🇸🇦 العربية](README.ar.md) · **🇮🇷 فارسی**
@@ -18,9 +18,9 @@
 
 ## 📊 در یک نگاه
 
-- **268** مخزن هوش مصنوعی و ایجنت، رتبه‌بندی‌شده بر اساس ستاره‌ی زنده‌ی گیت‌هاب
-- **11,489,744** مجموع ستاره‌های گیت‌هاب
-- 🔄 به‌صورت خودکار بازسازی شد — آخرین به‌روزرسانی **2026-10-26 12:25 UTC**
+- **269** مخزن هوش مصنوعی و ایجنت، رتبه‌بندی‌شده بر اساس ستاره‌ی زنده‌ی گیت‌هاب
+- **11,493,738** مجموع ستاره‌های گیت‌هاب
+- 🔄 به‌صورت خودکار بازسازی شد — آخرین به‌روزرسانی **2026-10-30 01:16 UTC**
 
 </div>
 
@@ -319,6 +319,7 @@ _بیشترین رشد ستاره از آخرین به‌روزرسانی هفت
 | 266 | [FlowElement-xinliuyuansu/m_flow](https://github.com/FlowElement-xinliuyuansu/m_flow) | ⭐ 4,508 | Python | A bio-inspired cognitive memory engine — a new paradigm for Graph RAG. |
 | 267 | [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) | ⭐ 4,453 | JavaScript | Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI |
 | 268 | [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) | ⭐ 4,286 | Jupyter Notebook | A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes. |
+| 269 | [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | ⭐ 3,994 | JavaScript | تیم هوش مصنوعی دسکتاپ متن‌باز با اولویت محلی. Commander متخصصان گزارش، اسلاید، ویدیو و کد را با ارائه‌دهندگان مدل پشتیبانی‌شده هماهنگ می‌کند. |
 
 ---
 
